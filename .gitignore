@@ -1,0 +1,15 @@
+
+# Python environments and build
+__pycache__/
+dist/
+build/
+venv/
+.venv/
+.env
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
